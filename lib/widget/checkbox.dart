@@ -13,6 +13,7 @@ class category extends StatefulWidget {
 
 class _categoryState extends State<category> {
   bool? ischaekd = false;
+  bool x = false;
   @override
   Widget build(BuildContext context) {
     return Row(
